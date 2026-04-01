@@ -2,7 +2,6 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Pygame 2.x](https://img.shields.io/badge/pygame-2.x-green.svg)](https://www.pygame.org/)
-[![License](https://img.shields.io/badge/license-Subscription-gold.svg)](file:///Users/jefersoneduardoguido/VScodeProjects/space_shooter/docs/COST_AND_SCHEDULE.md)
 
 A modern, high-performance remake of the classic *Asteroids* arcade game. Developed in **Python** using the **Pygame** engine, this project features entirely procedural graphics and sound generation—requiring zero external assets.
 
